@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @gibraan09
-- 👀 I’m interested in applying artificial intelligence and machine learning to financial risk and investment analysis.
-- 🌱 I’m currently learning python and its financial applications
+- 👋 Hi, I’m @gibraan09, a finance graduate transitioning to CS
+- 👀 I'm particularly interested in the intersection of AI, human-machine interaction, and innovative consumer software solutions.
+- 🌱 I’m currently learning JavaScript and C++.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on LinkedIn via www.linkedin.com/in/gibraan-khan
 
